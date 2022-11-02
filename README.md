@@ -6,3 +6,6 @@
 * Router
 * Pinia
 * Tailwind Css
+* Header
+* Footer
+* 
